@@ -1,7 +1,4 @@
-## BLock Chain Security and Performance Study Material + PPTS
-
-PPT Folder link :
-https://drive.google.com/drive/folders/1I84nJqtdPIPvgzXR5jlGIlpxBpuY_sj3?usp=sharing
+## BLock Chain Security and Performance Study Material 
 
 Study Material Link : 
 https://docs.google.com/document/d/1LpyQ6T2wJ45T_Kf3cpMcyri6cogB3Xl0k4bSTQAVE4g/edit?usp=sharing
