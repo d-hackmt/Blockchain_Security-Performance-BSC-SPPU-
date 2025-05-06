@@ -1,0 +1,56 @@
+Short notes : 
+
+Block in a blockchain
+Consensus mechanisms
+Reentrancy attack
+Double-Spending Attack
+Solidity
+Integer Overflow & Underflow 
+Hashing in blockchain
+Dapps
+
+DEFI
+collateral in DEFI
+Onchain solutions to blockchain performance 
+State channels offchain solution
+Layer 2 scaling solutions
+Atomic Swap
+
+
+5 mark questions : 
+Explain decentralization with example
+what are the different types of blockchain
+Explain blockchain architecture layers
+What is a blockchain and why do we need security in blockchain 
+Explain 4 common blockchain attacks 
+Explain the difference between POW and POS
+What's a hash key in Blockchain ? Explain how its generated
+Why are smart contracts vulnerable
+Whats the difference between traditional finance and DEFI (5 points)
+Explain DEFI and Key Features of DeFi
+Why Do We Need smart contract Security Tools?
+Why Manual Auditing of smart contracts is Not Enough?
+How smart contract Security Tools can Automate Vulnerability Detection? 
+What is performance in blockchain? and what are the key performance metrics ?
+what is network size and different types of network nodes in blockhchain network
+What is sharding and different types of sharding ?
+What are 5 different applications of blockchain ? 
+what were the Challenges in Traditional Blockchain Performance?
+Explain how does a 51 % attack works 
+What do you understand by mining a bitcoin ?  
+
+
+10 marks questions :
+
+Why IOT devices are not secured at all and how blockchain is solving it ? 
+Explain the following Consensus mechanisms
+POW
+POS
+POB
+POA 
+POET
+How does borrowing and lending working in DEFI and If you already have enough crypto to put down as 
+collateral, why would you even need to borrow? 
+Define smart contracts and explain different Categories of smart contract Security Tools 
+What are the different Factors Affecting Performance and how onchain and off chain solutions are solving it ? 
+How to enhance blockchain performance with onchain and and offchain scaling solutions explains briefly ?
